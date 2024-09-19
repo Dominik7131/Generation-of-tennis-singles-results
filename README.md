@@ -12,7 +12,7 @@
 ## Project structure
 
 - [CTKNewsParser](CTKNewsParser/) pre-processes existing tennis articles
-- [TemplateExtractor](TemplateExtractor/) extracts templates from pre-processed tennis articles
+- [TemplateExtractor](TemplateExtractor/) extracts templates from the pre-processed tennis articles
 - [NewsGenerator](NewsGenerator/) based on given parameters generates a short news article
 - [StatsAnalyzer](StatsAnalyzer/) analyzes tennis statistics for example to find the line between an even match and a close match
 - [WebScraper](WebScraper/) gets information about players such as their current ranking
