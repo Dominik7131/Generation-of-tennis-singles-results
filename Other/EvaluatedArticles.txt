@@ -1,0 +1,1609 @@
+1 F
+Winner: Petra Kvitová
+Loser: Jasmine Paoliniová
+Tournament: Roland Garros
+Round: 1. kolo
+Length: 01:17
+Score: 6:2,6:2
+
+[1_VÍTĚZ] na úvod {nezaváhal}
+začátek jednoznačný
+
+Kvitová na úvod nezaváhala
+
+[1_VÍTĚZ] {vstoupil} do [2_TURNAJNÁZEV] jednoznačnou výhrou. Za [4_DOBA] {porazil} [4_PORAŽENÝ] [1_SKÓREVÍTĚZ].
+začátek jednoznačný
+
+Petra Kvitová vstoupila do Roland Garros WTA jednoznačnou výhrou. Za 1 hodinu a 17 minut porazila hráče jménem Jasmine Paoliniová 6:2, 6:2.
+
+[1_VÍTĚZ] {deklasoval} [6_V_SET] [4_PORAŽENÝ] [1_SKÓRESETVÍTĚZ].
+jednoznačný
+
+Kvitová deklasovala v obou setech hráče jménem Paoliniová 6:2 a 6:2.
+
+-------------------------------------------------------------------------------------------
+
+2 F
+Winner: Belinda Benčičová
+Loser: Kaja Juvan
+Tournament: Wimbledon
+Round: 3. kolo
+Length: 01:12
+Score: 6:2,6:3
+
+[1_PORAŽENÝ] {prohrál} [6_V_KOLO] [7_S_VÍTĚZ]
+NONE
+
+Juvan prohrála ve 3. kole s hráčem jménem Benčičová
+
+[1_VÍTĚZ] {porazil} [6_NA_TURNAJ] [6_V_TURNAJMÍSTO] [6_V_KOLO] [4_PORAŽENÝ] [1_SKÓREVÍTĚZ] a {připsal} si výhru [6_NA_TURNAJTYP].
+NONE
+
+Belinda Benčičová porazila na grandslamu v Londýnu ve 3. kole hráče jménem Kaja Juvan 6:2, 6:3 a připsala si výhru na okruhu WTA.
+
+[1_PORAŽENÝ] [6_V_SET] jasně {prohrál} [1_SKÓRESETPORAŽENÝ].
+jednoznačný
+
+Juvan v 1. setu jasně prohrála 2:6.
+
+[6_V_SET] [1_VÍTĚZ] se {stal} druhým nejmladším [7_VÍTĚZSLOVO] [1_SKÓRESETVÍTĚZ].
+NONE
+
+V 2. setu Benčičová se stala druhým nejmladším vítězkou 6:3.
+
+-------------------------------------------------------------------------------------------
+
+3 M
+Winner: Manuel Juan Cerundolo
+Loser: Marcos Giron
+Tournament: Australian Open
+Round: 1. kolo
+Length: 01:51
+Score: 3:6,6:3,6:4
+
+[1_PORAŽENÝ] přes slibný začátek {nestačil} [6_V_TURNAJMÍSTO] [4_NA_VÍTĚZ]
+začátek otočení
+
+Giron přes slibný začátek nestačil v Melbournu na hráče jménem Cerundolo
+
+[1_PORAŽENÝ] {prohrál} [6_V_KOLO] [2_TURNAJ] [6_V_TURNAJMÍSTO] přes slibný začátek [7_S_VÍTĚZ] po [6_DOBA] [1_SKÓREPORAŽENÝ].
+začátek otočení
+
+Americký hráč Marcos Giron prohrál v 1. kole grandslamu v Melbournu přes slibný začátek s hráčem jménem Manuel Juan Cerundolo po 1 hodině a 51 minut 6:3, 3:6, 4:6.
+
+[6_V_SET] [1_VÍTĚZ] {zvítězil} [1_SKÓRESETVÍTĚZ].
+NONE
+
+V 1. setu Giron zvítězil 6:3.
+
+[6_V_SET] [1_VÍTĚZ] {nepřekvapil} a {prohrál} [7_S_PORAŽENÝ] [1_SKÓRESETVÍTĚZ].
+NONE
+
+V 2. a 3. setu Cerundolo nepřekvapil a prohrál s tenistou z Ameriky 6:3 a 6:4.
+
+-------------------------------------------------------------------------------------------
+
+4 M
+Winner: Robin Haase
+Loser: John Isner
+Tournament: Australian Open
+Round: 2. kolo
+Length: 00:59
+Score: 6:1,6:2
+
+[1_VÍTĚZ] {zaskočil} [4_NA_TURNAJNÁZEV] [4_PORAŽENÝ]
+nečekaný
+
+Haase zaskočil v Australian Open ATP Isnera
+
+[1_PORAŽENÝ] {nestačil} [6_V_KOLO] [2_TURNAJ] [6_V_TURNAJMÍSTO] [4_NA_VÍTĚZ] a {podlehl} [3_ON] nečekaně hladce [1_SKÓREPORAŽENÝ].
+jednoznačný nečekaný
+
+Veterán z Ameriky John Isner nestačil v 2. kole grandslamu v Melbournu na nizozemského hráče Robina Haaseho a podlehl jemu nečekaně hladce 1:6, 2:6.
+
+[1_VÍTĚZ] {smetl} [6_V_SET] [1_SKÓRESETVÍTĚZ].
+jednoznačný
+
+Haase smetl v obou setech 6:1 a 6:2.
+
+-------------------------------------------------------------------------------------------
+
+5 F
+Winner: Karolína Muchová
+Loser: Jaqueline Cristian
+Tournament: Hamburg
+Round: 2. kolo
+Length: 01:36
+Score: 7:5,7:5
+
+[1_PORAŽENÝODKAZ] {nestačil} [4_NA_PORAŽENÝ] a [7_S_TURNAJNÁZEV] se {rozloučil}
+NONE
+
+Cristian nestačila na Cristian a s Hamburg WTA se rozloučila
+
+[1_VÍTĚZ] {porazil} [6_NA_TURNAJNÁZEV] [4_PORAŽENÝ] [1_SKÓREVÍTĚZ] a [6_NA_TURNAJ] {postoupil} do [2_DALŠÍKOLO].
+NONE
+
+Karolína Muchová porazila v Hamburg WTA hráče jménem Jaqueline Cristian 7:5, 7:5 a na turnaji postoupila do 3. kola.
+
+[6_V_SET] [1_PORAŽENÝ] {podlehl} po boji [2_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+těsný
+
+V obou setech Cristian podlehla po boji Muchové 5:7 a 5:7.
+
+-------------------------------------------------------------------------------------------
+
+6 M
+Winner: Jonny O'Mara
+Loser: Hugo Gaston
+Tournament: Wimbledon
+Round: semifinále
+Length: 01:20
+Score: 6:3,7:5
+
+[1_VÍTĚZ] {postoupil} [6_V_TURNAJNÁZEV] přes [4_TURNAJNÁZEV] do [2_DALŠÍKOLO]
+NONE
+
+O'Mara postoupil ve Wimbledon ATP přes Wimbledon ATP do finále
+
+[1_VÍTĚZ] {vyřadil} [6_NA_TURNAJ] [6_V_TURNAJMÍSTO] [4_PORAŽENÝ]. [1_VÍTĚZODKAZ] {porazil} [4_PORAŽENÝODKAZ] [6_V_KOLO] [1_SKÓREVÍTĚZ] a je o [4_TITULVÍTĚZ].
+semifinále
+
+Jonny O'Mara vyřadil na grandslamu v Londýnu francouzského tenistu Huga Gastona. O'Mara porazil tenistu z Francie v semifinále 6:3, 7:5 a je o titul.
+
+[4_VÍTĚZ] nedokázal [6_V_SET] [1_SKÓRESETVÍTĚZ].
+NONE
+
+Hráče jménem O'Mara nedokázal v 1. setu 6:3.
+
+[6_V_SET] [1_VÍTĚZ] {bojoval} [7_S_PORAŽENÝ] [1_SKÓRESETVÍTĚZ].
+těsný
+
+V 2. setu O'Mara bojoval s Gastonem 7:5.
+
+-------------------------------------------------------------------------------------------
+
+7 M
+Winner: Gonzalo Escobar
+Loser: Jaume Munar
+Tournament: London
+Round: 4. kolo
+Length: 01:14
+Score: 6:4,6:4
+
+[1_PORAŽENÝ] nečekaně [6_NA_TURNAJNÁZEV] {prohrál} s mladou Kazaškou
+nečekaný
+
+Munar nečekaně v London ATP prohrál s mladou Kazaškou
+
+[1_PORAŽENÝ] nečekaně {vypadl} [6_NA_TURNAJNÁZEV] [6_V_KOLO]. [7_S_VÍTĚZ] {prohrál} [1_SKÓREPORAŽENÝ].
+nečekaný
+
+Jaume Munar nečekaně vypadl v London ATP ve 4. kole. S hráčem jménem Gonzalo Escobar prohrál 4:6, 4:6.
+
+[1_VÍTĚZ] {zvítězil} [6_V_SET] [1_SKÓRESETVÍTĚZ].
+NONE
+
+Escobar zvítězil v obou setech 6:4 a 6:4.
+
+-------------------------------------------------------------------------------------------
+
+8 F
+Winner: Kaja Juvan
+Loser: Amanda Anisimovová
+Tournament: Wimbledon
+Round: 2. kolo
+Length: 02:10
+Score: 3:6,6:4,6:2
+
+[1_VÍTĚZ] [6_V_TURNAJMÍSTO] {otočil} zápas a je [6_V_DALŠÍKOLO]
+otočení
+
+Juvan v Londýnu otočila zápas a je ve 3. kole
+
+[1_VÍTĚZ] {otočil} [6_NA_TURNAJ] [6_V_TURNAJMÍSTO] zápas [2_KOLO] a [4_PORAŽENÝ] {zdolal} [1_SKÓREVÍTĚZ].
+otočení
+
+Kaja Juvan otočila na grandslamu v Londýnu zápas 2. kola a hráče jménem Amanda Anisimovová zdolala 3:6, 6:4, 6:2.
+
+[6_V_SET] vítezkou se {stal} [1_VÍTĚZ] [1_SKÓRESETVÍTĚZ].
+NONE
+
+V 1. setu vítezkou se stala Anisimovová 6:3.
+
+[6_V_SET] {prohrál} [1_PORAŽENÝ] [7_S_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+NONE
+
+V 2. setu prohrála Anisimovová s hráčem jménem Juvan 4:6.
+
+[1_VÍTĚZ] [6_V_SET] {nezaváhal} [1_SKÓRESETVÍTĚZ].
+jednoznačný
+
+Juvan v 3. setu nezaváhala 6:2.
+
+-------------------------------------------------------------------------------------------
+
+9 F
+Winner: Anastasia Pavljučenkovová
+Loser: Madison Brengleová
+Tournament: Miami
+Round: 3. kolo
+Length: 02:04
+Score: 6:4,3:6,6:2
+
+[1_VÍTĚZ] {odolal} [3_PORAŽENÝ] a má výhru [6_NA_TURNAJNÁZEV]
+NONE
+
+Pavljučenkovová odolala Brengleové a má výhru v Miami WTA
+
+[1_PORAŽENÝ] {skončil} po zápase. [6_V_KOLO] [1_PORAŽENÝODKAZ] {nestačil} [4_NA_VÍTĚZ], [3_KTERÝ] {podlehl} [1_SKÓREPORAŽENÝ] za [4_DOBA].
+NONE
+
+Madison Brengleová skončila po zápase. Ve 3. kole Brengleová nestačila na hráče jménem Anastasia Pavljučenkovová, které podlehla 4:6, 6:3, 2:6 za 2 hodiny a 4 minuty.
+
+[1_PORAŽENÝ] {prohrál} [6_V_SET] [1_SKÓRESETPORAŽENÝ].
+NONE
+
+Brengleová prohrála v 1. setu 4:6.
+
+[6_V_SET] [1_VÍTĚZ] si {poradil} [1_SKÓRESETVÍTĚZ].
+NONE
+
+V 2. setu Brengleová si poradila 6:3.
+
+[1_PORAŽENÝ] [6_V_SET] {utrpěl} debakl [7_S_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+jednoznačný
+
+Brengleová v 3. setu utrpěla debakl s Pavljučenkovovou 2:6.
+
+-------------------------------------------------------------------------------------------
+
+10 M
+Winner: Ken Skupski
+Loser: Pedro Portero Martinez
+Tournament: Australian Open
+Round: 2. kolo
+Length: 03:42
+Score: 5:7,6:3,2:6,7:6,6:1
+
+[1_PORAŽENÝ] {vypadl} [6_V_TURNAJMÍSTO] [6_V_KOLO] po bitvě [7_S_VÍTĚZ]
+těsný
+
+Martinez vypadl v Melbournu v 2. kole po bitvě s hráčem jménem Skupski
+
+[1_VÍTĚZ] {postoupil} [6_NA_TURNAJNÁZEV] do [2_DALŠÍKOLO], [4_PORAŽENÝ] ale {porazil} po boji [1_SKÓREVÍTĚZ].
+těsný
+
+Ken Skupski postoupil v Australian Open ATP do 3. kola, hráče jménem Pedro Portero Martinez ale porazil po boji 5:7, 6:3, 2:6, 7:6, 6:1.
+
+[6_V_SET] [1_VÍTĚZ] {zdolal} po boji [4_PORAŽENÝ] [1_SKÓRESETVÍTĚZ].
+těsný
+
+V 1. setu Martinez zdolal po boji hráče jménem Skupski 7:5.
+
+{uspěl} [6_V_SET] [1_VÍTĚZ] [1_SKÓRESETVÍTĚZ].
+NONE
+
+Uspěl v 2. setu Skupski 6:3.
+
+[6_V_SET] [1_PORAŽENÝ] {utrpěl} debakl od [2_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+jednoznačný
+
+V 3. setu Skupski utrpěl debakl od Martineze 2:6.
+
+[6_V_SET] [1_VÍTĚZ] po boji {porazil} [4_PORAŽENÝ] [1_SKÓRESETVÍTĚZ].
+těsný
+
+V 4. setu Skupski po boji porazil Martineze 7:6.
+
+[6_V_SET] [1_PORAŽENÝ] {ztroskotal} [1_SKÓRESETPORAŽENÝ].
+jednoznačný
+
+V 5. setu Martinez ztroskotal 1:6.
+
+-------------------------------------------------------------------------------------------
+
+11 M
+Winner: Matwe Middelkoop
+Loser: Harri Heliovaara
+Tournament: Sao Paulo
+Round: 4. kolo
+Length: 01:42
+Score: 6:4,7:6
+
+[1_PORAŽENÝ] {prohrál} [6_V_TURNAJNÁZEV] [7_S_VÍTĚZ]
+NONE
+
+Heliovaara prohrál v Sao Paulo ATP s hráčem jménem Middelkoop
+
+[6_V_KOLO] [2_TURNAJ] {zvítězil} [1_VÍTĚZ] nad [7_PORAŽENÝ] [1_SKÓREVÍTĚZ].
+NONE
+
+Ve 4. kole turnaje zvítězil Matwe Middelkoop nad tenistou z Finska jménem Harri Heliovaara 6:4, 7:6.
+
+[1_PORAŽENÝ] {nestačil} [6_V_SET] [1_SKÓRESETPORAŽENÝ].
+NONE
+
+Heliovaara nestačil v 1. setu 4:6.
+
+[1_PORAŽENÝ] {prohrál} po boji [2_SET] [7_S_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+těsný
+
+Tenista z Finska prohrál po boji 2. setu s hráčem jménem Middelkoop 6:7.
+
+-------------------------------------------------------------------------------------------
+
+12 F
+Winner: Elina Svitolinová
+Loser: Jessica Pegulaová
+Tournament: French Open
+Round: 4. kolo
+Length: 01:27
+Score: 6:3,6:4
+
+[1_PORAŽENÝ] {skončil} [6_NA_TURNAJPOVRCH] [6_V_TURNAJMÍSTO] [6_V_KOLO]
+NONE
+
+Pegulaová skončila na antuce v Paříži ve 4. kole
+
+[1_VÍTĚZ] {postoupil} [6_NA_TURNAJ] [6_V_TURNAJMÍSTO] do [2_DALŠÍKOLO], když v utkání {porazil} [4_PORAŽENÝ] [1_SKÓREVÍTĚZ].
+NONE
+
+Elina Svitolinová postoupila na grandslamu v Paříži do osmifinále, když v utkání porazila hráče jménem Jessica Pegulaová 6:3, 6:4.
+
+[6_V_SET] {uspěl} [1_VÍTĚZ] [1_SKÓRESETVÍTĚZ].
+NONE
+
+V obou setech uspěla Svitolinová 6:3 a 6:4.
+
+-------------------------------------------------------------------------------------------
+
+13 F
+Winner: Jennifer Bradyová
+Loser: Simona Halepová
+Tournament: Eastbourne
+Round: 4. kolo
+Length: 01:28
+Score: 6:4,7:6
+
+[1_VÍTĚZ] [6_V_KOLO] [2_TURNAJNÁZEV] {zdolal} [4_PORAŽENÝ]
+NONE
+
+Bradyová ve 4. kole Eastbourne WTA zdolala Halepovou
+
+[1_VÍTĚZODKAZ] {porazil} [6_V_KOLO] [4_VÍTĚZ] [1_SKÓREVÍTĚZ].
+NONE
+
+Bradyová porazila ve 4. kole hráče jménem Jennifer Bradyová 6:4, 7:6.
+
+[1_PORAŽENÝ] {prohrál} [4_SET] [1_SKÓRESETPORAŽENÝ].
+NONE
+
+Halepová prohrála 1. set 4:6.
+
+[1_PORAŽENÝ] {podlehl} [6_V_SET] po boji [3_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+těsný
+
+Halepová podlehla v 2. setu po boji Bradyové 6:7.
+
+-------------------------------------------------------------------------------------------
+
+14 M
+Winner: Lorenzo Musetti
+Loser: Diego Schwartzman
+Tournament: Australian Open
+Round: 4. kolo
+Length: 03:51
+Score: 7:5,6:4,6:7,0:6,6:4
+
+[1_VÍTĚZ] {postoupil} po [6_SETOVÝPOČET] boji
+těsný
+
+Musetti postoupil po pětisetovém boji
+
+[1_VÍTĚZ] {postoupil} [6_NA_TURNAJ] [6_V_TURNAJMÍSTO] do [2_DALŠÍKOLO] po [6_DOBOVÝ] bitvě. [1_VÍTĚZODKAZ] {porazil} [4_PORAŽENÝ] [1_SKÓREVÍTĚZ].
+těsný
+
+Lorenzo Musetti postoupil na grandslamu v Melbournu do osmifinále po 3 hodinách a 51 minut dlouhé bitvě. Musetti porazil Diega Schwartzmana 7:5, 6:4, 6:7, 0:6, 6:4.
+
+[6_V_SET] [1_VÍTĚZ] {vydřel} vítězství [1_SKÓRESETVÍTĚZ].
+těsný
+
+V 1. setu Musetti vydřel vítězství 7:5.
+
+[6_V_SET] [1_VÍTĚZ] {přehrál} [4_PORAŽENÝ] [1_SKÓRESETVÍTĚZ].
+NONE
+
+V 2. setu Musetti přehrál Schwartzmana 6:4.
+
+[6_V_SET] [1_PORAŽENÝ] {prohrál} bitvu [1_SKÓRESETPORAŽENÝ].
+těsný
+
+V 3. setu Musetti prohrál bitvu 6:7.
+
+[1_PORAŽENÝ] {utrpěl} debakl [6_V_SET] [1_SKÓRESETPORAŽENÝ].
+jednoznačný
+
+Musetti utrpěl debakl v 4. setu 0:6.
+
+[6_V_SET] [1_VÍTĚZ] {porazil} [6_NA_TURNAJPOVRCH] [4_PORAŽENÝ] [1_SKÓRESETVÍTĚZ].
+NONE
+
+V 5. setu Musetti porazil na tvrdém povrchu Schwartzmana 6:4.
+
+-------------------------------------------------------------------------------------------
+
+15 M
+Winner: Matteo Berrettini
+Loser: Diego Schwartzman
+Tournament: S Hertogenbosch
+Round: 3. kolo
+Length: 01:30
+Score: 6:1,7:6
+
+[1_PORAŽENÝ] {vypadl} [6_NA_TURNAJNÁZEV] [6_V_KOLO] [7_S_VÍTĚZ]
+NONE
+
+Schwartzman vypadl ve S Hertogenbosch ATP ve 3. kole s hráčem jménem Berrettini
+
+Se {rozloučil} [1_PORAŽENÝODKAZ]. [1_PORAŽENÝ] {prohrál} v utkání [2_KOLO] [7_S_VÍTĚZ] [1_SKÓREPORAŽENÝ].
+NONE
+
+Se rozloučil Schwartzman. Diego Schwartzman prohrál v utkání 3. kola s hráčem jménem Matteo Berrettini 1:6, 6:7.
+
+[6_V_SET] [1_VÍTĚZ] hladce {zdolal} [4_PORAŽENÝ] [1_SKÓRESETVÍTĚZ].
+jednoznačný
+
+V 1. setu Berrettini hladce zdolal Schwartzmana 6:1.
+
+[6_V_SET] [1_PORAŽENÝ] po boji {podlehl} Hantuchové [1_SKÓRESETPORAŽENÝ].
+těsný
+
+V 2. setu Schwartzman po boji podlehl Hantuchové 6:7.
+
+-------------------------------------------------------------------------------------------
+
+16 M
+Winner: David Hernandez Vega
+Loser: Luke Bambridge
+Tournament: Wimbledon
+Round: 2. kolo
+Length: 05:15
+Score: 6:7,3:6,7:5,6:2,2:2
+
+[1_PORAŽENÝ] {vzdal} [3_VÍTĚZ] [4_KOLO] [6_V_TURNAJMÍSTO]
+nedokončený
+
+Bambridge vzdal Veze 2. kolo v Londýnu
+
+[1_VÍTĚZ] {postoupil} [6_V_TURNAJMÍSTO] do [2_DALŠÍKOLO] [2_TURNAJ]. [1_PORAŽENÝ] zápas [2_KOLO] za stavu [1_SKÓREPORAŽENÝ] {skrečoval}.
+nedokončený
+
+David Hernandez Vega postoupil v Londýnu do 3. kola grandslamu. Luke Bambridge zápas 2. kola za stavu 7:6, 6:3, 5:7, 2:6, 2:2 skrečoval.
+
+[6_V_SET] [1_VÍTĚZ] {vydřel} vítězství nad [7_PORAŽENÝ] [1_SKÓRESETVÍTĚZ].
+těsný
+
+V 1. setu Bambridge vydřel vítězství nad Vegou 7:6.
+
+[6_V_SET] [1_VÍTĚZ] {zdolal} [1_PORAŽENÝ] [1_SKÓRESETVÍTĚZ].
+NONE
+
+V 2. setu Bambridge zdolal Vega 6:3.
+
+[6_V_SET] [1_PORAŽENÝ] {prohrál} [6_NA_TURNAJPOVRCH] bitvu [7_S_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+těsný
+
+V 3. setu Bambridge prohrál na trávě bitvu s Vegou 5:7.
+
+[1_SET] patřilo [3_VÍTĚZ] [1_SKÓRESETVÍTĚZ].
+jednoznačný
+
+4. Set patřilo Veze 6:2.
+
+[1_PORAŽENÝ] {vzdal} [6_V_SET] [1_SKÓRESETPORAŽENÝ].
+nedokončený
+
+Bambridge vzdal v 5. setu 2:2.
+
+-------------------------------------------------------------------------------------------
+
+17 F
+Winner: Bernarda Peraová
+Loser: Simona Halepová
+Tournament: Rio De Janeiro
+Round: 4. kolo
+Length: 02:14
+Score: 4:6,6:1,6:4
+
+[1_VÍTĚZ] {otočil} zápas [7_S_PORAŽENÝ] a je [6_V_DALŠÍKOLO]
+otočení
+
+Peraová otočila zápas s Halepovou a je v osmifinále
+
+[1_PORAŽENÝ] {podlehl} [6_NA_TURNAJNÁZEV] [3_VÍTĚZ] [1_SKÓREPORAŽENÝ] a do [2_DALŠÍKOLO] [2_TURNAJ] {nepostoupil}.
+NONE
+
+Simona Halepová podlehla v Rio De Janeiro WTA hráči jménem Bernarda Peraová 6:4, 1:6, 4:6 a do osmifinále turnaje nepostoupila.
+
+[6_V_SET] [1_PORAŽENÝ] {nezaskočil} [4_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+NONE
+
+V 1. setu Peraová nezaskočila Halepovou 4:6.
+
+[6_V_SET] [1_VÍTĚZ] {smetl} [4_PORAŽENÝ] [1_SKÓRESETVÍTĚZ].
+jednoznačný
+
+V 2. setu Peraová smetla Halepovou 6:1.
+
+[6_V_SET] {vyzrál} [1_VÍTĚZ] [1_SKÓRESETVÍTĚZ].
+NONE
+
+V 3. setu vyzrála Peraová 6:4.
+
+-------------------------------------------------------------------------------------------
+
+18 M
+Winner: Jan-Lennard Struff
+Loser: Denis Shapovalov
+Tournament: Wimbledon
+Round: 2. kolo
+Length: 02:23
+Score: 6:3,1:6,6:1,6:4
+
+[1_VÍTĚZ] {porazil} [6_V_TURNAJMÍSTO] [4_PORAŽENÝ] a je o [4_DALŠÍKOLO]
+NONE
+
+Struff porazil v Londýnu hráče jménem Shapovalov a je o 3. kolo
+
+[1_VÍTĚZ] se [6_V_KOLO] [2_TURNAJ] [6_V_TURNAJMÍSTO] {probojoval} do [2_DALŠÍKOLO]. V utkání {porazil} [4_PORAŽENÝ] [1_SKÓREVÍTĚZ].
+NONE
+
+Tenista z Německa Jan-Lennard Struff se v 2. kole grandslamu v Londýnu probojoval do 3. kola. V utkání porazil kanadského tenistu jménem Denis Shapovalov 6:3, 1:6, 6:1, 6:4.
+
+[6_V_SET] [1_VÍTĚZ] se {stal} [7_VÍTĚZSLOVO] [1_SKÓRESETVÍTĚZ].
+NONE
+
+V 1. setu Struff se stal vítězem 6:3.
+
+[6_V_SET] [1_VÍTĚZ] hladce {porazil} [4_PORAŽENÝ] [1_SKÓRESETVÍTĚZ].
+jednoznačný
+
+V 2. setu Shapovalov hladce porazil hráče z Německa 6:1.
+
+[6_V_SET] [1_PORAŽENÝ] {ztroskotal} [6_NA_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+jednoznačný
+
+V 3. setu kanadský hráč ztroskotal na tenistovi z Německa 1:6.
+
+[1_PORAŽENÝ] {podlehl} [6_V_SET] [2_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+NONE
+
+Tenista z Canady podlehl v 4. setu německého tenisty 4:6.
+
+-------------------------------------------------------------------------------------------
+
+19 M
+Winner: George Lloyd Harris
+Loser: Roger Federer
+Tournament: US Open
+Round: 2. kolo
+Length: 01:44
+Score: 6:1,6:4,6:4
+
+[1_PORAŽENÝ] {neporazil} [4_VÍTĚZ] a {skončil} [6_V_KOLO]
+NONE
+
+Federer neporazil Harrise a skončil v 2. kole
+
+[1_PORAŽENÝ] {vypadl} [6_NA_TURNAJNÁZEV] [6_V_KOLO]. [1_PORAŽENÝODKAZ] {nestačil} [6_NA_TURNAJPOVRCH] [4_NA_VÍTĚZ] a [3_VÍTĚZODKAZ] {podlehl} [1_SKÓREPORAŽENÝ].
+NONE
+
+Hráč ze Švýcarska Roger Federer vypadl v US Open ATP v 2. kole. Švýcarský tenista nestačil na tvrdém povrchu na George Lloyda Harrise a Harrisi podlehl 1:6, 4:6, 4:6.
+
+[6_V_SET] [1_VÍTĚZ] hladce {zdolal} [4_PORAŽENÝ] [1_SKÓRESETVÍTĚZ].
+jednoznačný
+
+V 1. setu Harris hladce zdolal Federera 6:1.
+
+[6_V_SET] [4_VÍTĚZ] nepřekvapilo [1_SKÓRESETVÍTĚZ].
+NONE
+
+V 2. a 3. setu Harrise nepřekvapilo 6:4 a 6:4.
+
+-------------------------------------------------------------------------------------------
+
+20 M
+Winner: Harri Heliovaara
+Loser: Nicolas Mahut
+Tournament: Australian Open
+Round: osmifinále
+Length: 01:06
+Score: 6:3,6:2
+
+[1_PORAŽENÝ] {padl} [6_V_KOLO] [7_S_VÍTĚZ]
+nečekaný
+
+Mahut padl v osmifinále s hráčem jménem Heliovaara
+
+[1_VÍTĚZ] se {postaral} [6_NA_TURNAJ] [6_V_TURNAJMÍSTO] o překvapení vyřazením. Nad [7_PORAŽENÝ] {zvítězil} [1_SKÓREVÍTĚZ] a [6_NA_TURNAJPOVRCH] [2_V_TURNAJMÍSTO] si zahraje [4_KOLO].
+nečekaný
+
+Harri Heliovaara se postaral na grandslamu v Melbournu o překvapení vyřazením. Nad hráčem jménem Nicolas Mahut zvítězil 6:3, 6:2 a na tvrdém povrchu v Melbournu si zahraje osmifinále.
+
+[1_PORAŽENÝ] [6_V_SET] {prohrál} [7_S_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+NONE
+
+Mahut v 1. setu prohrál s hráčem jménem Heliovaara 3:6.
+
+[1_VÍTĚZ] [6_V_SET] {nezaváhal} [1_SKÓRESETVÍTĚZ].
+jednoznačný
+
+Heliovaara v 2. setu nezaváhal 6:2.
+
+-------------------------------------------------------------------------------------------
+
+21 M
+Winner: Ivan Sabanov
+Loser: Filip Polášek
+Tournament: Shanghai
+Round: 4. kolo
+Length: 02:25
+Score: 3:6,6:4,6:3
+
+[1_VÍTĚZ] {předvedl} [6_V_KOLO] drama se šťastným koncem
+otočení
+
+Sabanov předvedl ve 4. kole drama se šťastným koncem
+
+[1_PORAŽENÝ] [6_NA_TURNAJNÁZEV] [4_TITULPORAŽENÝ] nezíská. [1_VÍTĚZODKAZ] [6_V_KOLO] [7_S_VÍTĚZ] {promarnil} [4_SETOVÝPOČET] vedení a {prohrál} [1_SKÓREPORAŽENÝ].
+otočení
+
+Filip Polášek ve Shanghai ATP titul nezíská. Sabanov ve 4. kole s hráčem jménem Ivan Sabanov promarnil třísetového vedení a prohrál 6:3, 4:6, 3:6.
+
+[1_VÍTĚZ] {přehrál} [6_V_SET] [1_SKÓRESETVÍTĚZ].
+NONE
+
+Polášek přehrál v 1. setu 6:3.
+
+[6_V_SET] [1_VÍTĚZ] {zdolal} [4_PORAŽENÝ] [1_SKÓRESETVÍTĚZ].
+NONE
+
+V 2. a 3. setu Sabanov zdolal Poláška 6:4 a 6:3.
+
+-------------------------------------------------------------------------------------------
+
+22 F
+Winner: Veronika Kuděrmetovová
+Loser: Karolína Plíšková
+Tournament: Australian Open
+Round: 2. kolo
+Length: 02:34
+Score: 6:4,7:6,7:6
+
+[1_VÍTĚZ] [6_V_TURNAJMÍSTO] {zvládl} [4_KOLO]
+NONE
+
+Kuděrmetovová v Melbournu zvládla 2. kolo
+
+[1_VÍTĚZ] {postoupil} [6_NA_TURNAJPOVRCH] [6_V_TURNAJMÍSTO] do [2_DALŠÍKOLO] [2_TURNAJ]. [1_VÍTĚZODKAZ] {porazil} [4_PORAŽENÝ] [1_SKÓREVÍTĚZ].
+NONE
+
+Veronika Kuděrmetovová postoupila na tvrdém povrchu v Melbournu do 3. kola grandslamu. Kuděrmetovová porazila Karolínu Plíškovou 6:4, 7:6, 7:6.
+
+[1_PORAŽENÝ] {nestačil} [6_V_SET] [4_NA_VÍTĚZODKAZ] [1_SKÓRESETPORAŽENÝ].
+NONE
+
+Plíšková nestačila v 1. setu na hráče jménem Kuděrmetovová 4:6.
+
+[1_VÍTĚZ] se [6_V_SET] {nadřel} [1_SKÓRESETVÍTĚZ].
+těsný
+
+Kuděrmetovová se v 2. a 3. setu nadřela 7:6 a 7:6.
+
+-------------------------------------------------------------------------------------------
+
+23 M
+Winner: Carlos Alcaraz
+Loser: Juan-Sebastian Cabal
+Tournament: Australian Open
+Round: 1. kolo
+Length: 01:50
+Score: 6:3,1:6,6:2
+
+[1_VÍTĚZ] {zahájil} [2_TURNAJMÍSTO]
+začátek
+
+Alcaraz zahájil Melbournu
+
+[1_VÍTĚZ] {zahájil} [6_V_TURNAJMÍSTO] vítězně. [6_NA_TURNAJ] {porazil} [6_V_KOLO] [4_PORAŽENÝ] [1_SKÓREVÍTĚZ].
+začátek
+
+Hráč ze Španělska Carlos Alcaraz zahájil v Melbournu vítězně. Na grandslamu porazil v 1. kole hráče jménem Juan-Sebastian Cabal 6:3, 1:6, 6:2.
+
+[1_PORAŽENÝ] [6_V_SET] {podlehl} [3_VÍTĚZODKAZ] [1_SKÓRESETPORAŽENÝ].
+NONE
+
+Cabal v 1. setu podlehl Alcarazi 3:6.
+
+[1_PORAŽENÝ] {prohrál} [6_V_SET] hladce [7_S_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+jednoznačný
+
+Španělský tenista prohrál v 2. setu hladce s Cabalem 1:6.
+
+[1_PORAŽENÝ] {ztroskotal} [6_V_SET] [7_NA_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+jednoznačný
+
+Cabal ztroskotal v 3. setu na tenistou ze Španělska 2:6.
+
+-------------------------------------------------------------------------------------------
+
+24 M
+Winner: Stan Wawrinka
+Loser: Dominic Inglot
+Tournament: Australian Open
+Round: 3. kolo
+Length: 02:01
+Score: 6:4,6:7,6:3
+
+[1_PORAŽENÝ] {nestačil} [4_NA_VÍTĚZ] a {rozloučil} se [7_S_TURNAJNÁZEV]
+NONE
+
+Inglot nestačil na Wawrinku a rozloučil se s Australian Open ATP
+
+[1_VÍTĚZ] si {zajistil} postup do [2_DALŠÍKOLO] [2_TURNAJ] [6_V_TURNAJMÍSTO], když {porazil} [4_PORAŽENÝ] [1_SKÓREVÍTĚZ].
+NONE
+
+Veterán ze Švýcarska Stan Wawrinka si zajistil postup do osmifinále grandslamu v Melbournu, když porazil hráče jménem Dominic Inglot 6:4, 6:7, 6:3.
+
+[7_VÍTĚZ] {porazil} [6_V_SET] [1_VÍTĚZODKAZ] [1_SKÓRESETVÍTĚZ].
+NONE
+
+Wawrinkou porazil v 1. setu švýcarský veterán 6:4.
+
+[1_VÍTĚZ] {udolal} [6_V_SET] [4_PORAŽENÝ] [1_SKÓRESETVÍTĚZ].
+těsný
+
+Inglot udolal v 2. setu švýcarského veterána 7:6.
+
+[6_V_SET] {prohrál} [1_PORAŽENÝ] [7_S_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+NONE
+
+V 3. setu prohrál Inglot s veteránem ze Švýcarska 3:6.
+
+-------------------------------------------------------------------------------------------
+
+25 M
+Winner: Benoit Paire
+Loser: Stefano Travaglia
+Tournament: Acapulco
+Round: 2. kolo
+Length: 01:47
+Score: 5:7,6:0,6:2
+
+[1_VÍTĚZ] po obratu {postoupil} do [2_DALŠÍKOLO] [2_TURNAJNÁZEV]
+otočení
+
+Paire po obratu postoupil do 3. kola Acapulco ATP
+
+[1_VÍTĚZ] {postoupil} do [2_DALŠÍKOLO]. [6_V_KOLO] si [1_VÍTĚZODKAZ] {poradil} [7_S_PORAŽENÝ] a {vyhrál} [1_SKÓREVÍTĚZ].
+NONE
+
+Benoit Paire postoupil do 3. kola. V 2. kole si Paire poradil s hráčem jménem Stefano Travaglia a vyhrál 5:7, 6:0, 6:2.
+
+[6_V_SET] [1_VÍTĚZ] {vybojoval} vítězství [1_SKÓRESETVÍTĚZ].
+těsný
+
+V 1. setu Travaglia vybojoval vítězství 7:5.
+
+[6_V_SET] [1_PORAŽENÝ] {utrpěl} debakl [7_S_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+jednoznačný
+
+V 2. a 3. setu Travaglia utrpěl debakl s hráčem jménem Paire 0:6 a 2:6.
+
+-------------------------------------------------------------------------------------------
+
+26 F
+Winner: Anastasia Pavljučenkovová
+Loser: Rebecca Petersonová
+Tournament: Wimbledon
+Round: 2. kolo
+Length: 01:56
+Score: 5:7,6:3,6:1
+
+[1_VÍTĚZ] {obrátil} utkání [6_NA_TURNAJ] [6_V_TURNAJMÍSTO]
+otočení
+
+Pavljučenkovová obrátila utkání na grandslamu v Londýnu
+
+[1_VÍTĚZ] {otočil} [6_NA_TURNAJ] [6_V_TURNAJMÍSTO] ztracený zápas [7_S_PORAŽENÝ] a po výhře [1_SKÓREVÍTĚZ] {postoupil} do [2_DALŠÍKOLO].
+otočení
+
+Anastasia Pavljučenkovová otočila na grandslamu v Londýnu ztracený zápas s Rebeccou Petersonovou a po výhře 5:7, 6:3, 6:1 postoupila do 3. kola.
+
+[6_V_SET] [1_VÍTĚZ] {bojoval} [1_SKÓRESETVÍTĚZ].
+těsný
+
+V 1. setu Petersonová bojovala 7:5.
+
+[1_VÍTĚZ] {porazil} [3_SET] [4_PORAŽENÝ] [1_SKÓRESETVÍTĚZ].
+NONE
+
+Pavljučenkovová porazila 2. setovi Petersonovou 6:3.
+
+[1_PORAŽENÝ] {selhal} [6_V_SET] [1_SKÓRESETPORAŽENÝ].
+jednoznačný
+
+Petersonová selhala v 3. setu 1:6.
+
+-------------------------------------------------------------------------------------------
+
+27 F
+Winner: Clara Burelová
+Loser: Jessica Pegulaová
+Tournament: Winston Salem
+Round: 3. kolo
+Length: 01:05
+Score: 6:4,6:4
+
+[1_VÍTĚZ] {vyřadil} [6_NA_TURNAJNÁZEV] [4_PORAŽENÝ]
+NONE
+
+Burelová vyřadila ve Winston Salem WTA hráče jménem Pegulaová
+
+[1_VÍTĚZ] {zdolal} [6_V_KOLO] [4_PORAŽENÝ] [1_SKÓREVÍTĚZ].
+NONE
+
+Clara Burelová zdolala ve 3. kole hráče jménem Jessica Pegulaová 6:4, 6:4.
+
+[1_PORAŽENÝ] {prohrál} [6_SET] [7_S_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+NONE
+
+Pegulaová prohrála obou setech s Burelovou 4:6 a 4:6.
+
+-------------------------------------------------------------------------------------------
+
+28 M
+Winner: Pierre-Hugues Herbert
+Loser: Henri Laaksonen
+Tournament: US Open
+Round: 1. kolo
+Length: 01:36
+Score: 6:3,6:4
+
+[1_VÍTĚZ] {zahájil} [4_TURNAJ] [6_V_TURNAJMÍSTO] vítězstvím nad [7_PORAŽENÝ]
+začátek
+
+Herbert zahájil grandslam v New Yorku City vítězstvím nad hráčem jménem Laaksonen
+
+[1_VÍTĚZ] {vyhrál} na úvod [4_TITULVÍTĚZ] [6_V_TURNAJMÍSTO], když [6_V_KOLO] {porazil} [4_PORAŽENÝ] [1_SKÓREVÍTĚZ].
+začátek
+
+Pierre-Hugues Herbert vyhrál na úvod titul v New Yorku City, když v 1. kole porazil hráče jménem Henri Laaksonen 6:3, 6:4.
+
+[6_V_SET] [1_VÍTĚZ] si {poradil} [7_S_PORAŽENÝODKAZ] [1_SKÓRESETVÍTĚZ].
+NONE
+
+V obou setech Herbert si poradil s hráčem jménem Laaksonen 6:3 a 6:4.
+
+-------------------------------------------------------------------------------------------
+
+29 F
+Winner: Cori Gauff
+Loser: Petra Kvitová
+Tournament: Australian Open
+Round: osmifinále
+Length: 02:44
+Score: 5:7,7:6,6:2,6:2
+
+Dvouhru [6_V_TURNAJMÍSTO] {vyhrál} po dramatu [1_VÍTĚZ]
+otočení
+
+Dvouhru v Melbournu vyhrála po dramatu Gauff
+
+[1_VÍTĚZ] {otočil} [6_NA_TURNAJ] [6_V_TURNAJMÍSTO] zápas [7_PORAŽENÝ] a po výhře [1_SKÓREVÍTĚZ] {postoupil} do [2_DALŠÍKOLO].
+otočení
+
+Cori Gauff otočila na grandslamu v Melbournu zápas Petrou Kvitovou a po výhře 5:7, 7:6, 6:2, 6:2 postoupila do čtvrtfinále.
+
+[6_V_SET] [1_VÍTĚZ] po boji {porazil} [4_PORAŽENÝ] [1_SKÓRESETVÍTĚZ].
+těsný
+
+V 1. setu Kvitová po boji porazila hráče jménem Gauff 7:5.
+
+[6_V_SET] [1_VÍTĚZ] {vydřel} vítězství [1_SKÓRESETVÍTĚZ].
+těsný
+
+V 2. setu Gauff vydřela vítězství 7:6.
+
+[6_V_SET] [1_PORAŽENÝ] {utrpěl} debakl [1_SKÓRESETPORAŽENÝ].
+jednoznačný
+
+V 3. a 4. setu Kvitová utrpěla debakl 2:6 a 2:6.
+
+-------------------------------------------------------------------------------------------
+
+30 F
+Winner: Victoria Azarenková
+Loser: Bernarda Peraová
+Tournament: French Open
+Round: 3. kolo
+Length: 02:18
+Score: 4:6,7:6,7:5
+
+[1_VÍTĚZ] {obrátil} utkání [6_NA_TURNAJ] [6_V_TURNAJMÍSTO]
+otočení
+
+Azarenková obrátila utkání na grandslamu v Paříži
+
+[1_PORAŽENÝ] {nedotáhl} [6_NA_TURNAJ] [6_V_TURNAJMÍSTO] slibně rozehraný zápas [2_KOLO] [7_S_VÍTĚZ]. [1_PORAŽENÝODKAZ] [3_VÍTĚZODKAZ] {podlehl} [1_SKÓREPORAŽENÝ].
+otočení
+
+Bernarda Peraová nedotáhla na grandslamu v Paříži slibně rozehraný zápas 3. kola s Victorií Azarenkovou. Peraová Azarenkové podlehla 6:4, 6:7, 5:7.
+
+[6_V_SET] [1_VÍTĚZ] {přehrál} [6_NA_TURNAJPOVRCH] [1_SKÓRESETVÍTĚZ].
+NONE
+
+V 1. setu Peraová přehrála na antuce 6:4.
+
+[1_VÍTĚZ] se na vítězství [6_V_SET] {nadřel} [1_SKÓRESETVÍTĚZ].
+těsný
+
+Azarenková se na vítězství v 2. a 3. setu nadřela 7:6 a 7:5.
+
+-------------------------------------------------------------------------------------------
+
+31 F
+Winner: Lauren Davisová
+Loser: Jelena Ostapenková
+Tournament: Gstaad
+Round: 3. kolo
+Length: 01:22
+Score: 6:3,7:5
+
+[1_VÍTĚZ] si {poradil} [7_S_PORAŽENÝ] a je [6_V_DALŠÍKOLO]
+NONE
+
+Davisová si poradila s hráčem jménem Ostapenková a je v osmifinále
+
+[1_VÍTĚZ] [6_NA_TURNAJNÁZEV] {porazil} [4_PORAŽENÝ] [1_SKÓREVÍTĚZ] a je [6_V_KOLO] [2_TURNAJ].
+NONE
+
+Lauren Davisová ve Gstaad WTA porazila hráče jménem Jelena Ostapenková 6:3, 7:5 a je ve 3. kole turnaje.
+
+[6_V_SET] [1_VÍTĚZ] si {poradil} [1_SKÓRESETVÍTĚZ].
+NONE
+
+V 1. setu Davisová si poradila 6:3.
+
+[1_PORAŽENÝ] {prohrál} po boji [6_V_SET] [7_S_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+těsný
+
+Ostapenková prohrála po boji v 2. setu s Davisovou 5:7.
+
+-------------------------------------------------------------------------------------------
+
+32 M
+Winner: John Peers
+Loser: Jamie Murray
+Tournament: Wimbledon
+Round: 4. kolo
+Length: 02:16
+Score: 6:4,3:6,6:3
+
+[1_PORAŽENÝ] do [2_DALŠÍKOLO] {nepostoupil}
+NONE
+
+Murray do osmifinále nepostoupil
+
+[1_PORAŽENÝODKAZ] {nestačil} [6_V_KOLO] [4_NA_PORAŽENÝ] a po [6_SETOVÝPOČET] porážce [1_SKÓREPORAŽENÝ] {byl} vyřazena.
+NONE
+
+Murray nestačil ve 4. kole na Jamieho Murraye a po třísetové porážce 4:6, 6:3, 3:6 byl vyřazena.
+
+[6_V_SET] [1_VÍTĚZ] se {stal} [1_SKÓRESETVÍTĚZ].
+NONE
+
+V 1. setu Peers se stal 6:4.
+
+[4_VÍTĚZ] nedokázal [6_V_SET] [1_SKÓRESETVÍTĚZ].
+NONE
+
+Murraye nedokázal v 2. setu 6:3.
+
+[6_V_SET] [1_PORAŽENÝ] {neuspěl} [1_SKÓRESETPORAŽENÝ].
+NONE
+
+V 3. setu Murray neuspěl 3:6.
+
+-------------------------------------------------------------------------------------------
+
+33 F
+Winner: Anhelina Kalininová
+Loser: Shelby Rogersová
+Tournament: Marrakech
+Round: čtvrtfinále
+Length: 01:03
+Score: 6:2,6:4
+
+[1_VÍTĚZ] {porazil} [4_PORAŽENÝ] a je
+NONE
+
+Kalininová porazila Rogersovou a je
+
+[1_VÍTĚZ] {porazil} [4_PORAŽENÝ] ve třech [1_SKÓREVÍTĚZ] a {vyhrál} [4_TURNAJNÁZEV].
+NONE
+
+Anhelina Kalininová porazila Shelbyho Rogersovou ve třech 6:2, 6:4 a vyhrála Marrakech WTA.
+
+[6_V_SET] [1_PORAŽENÝ] {utrpěl} debakl od [2_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+jednoznačný
+
+V 1. setu Rogersová utrpěla debakl od Kalininové 2:6.
+
+[1_PORAŽENÝ] {podlehl} [6_V_SET] [3_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+NONE
+
+Rogersová podlehla v 2. setu Kalininové 4:6.
+
+-------------------------------------------------------------------------------------------
+
+34 F
+Winner: Beatriz Haddad Maiová
+Loser: Varvara Gracheva
+Tournament: French Open
+Round: osmifinále
+Length: 01:55
+Score: 6:1,4:6,6:4
+
+[1_VÍTĚZ] {vyřadil} [4_PORAŽENÝ] a je [6_NA_TURNAJNÁZEV] [6_V_DALŠÍKOLO]
+NONE
+
+Maiová vyřadila hráče jménem Gracheva a je ve French Open WTA ve čtvrtfinále
+
+[1_VÍTĚZ] si {zajistil} postup do [2_DALŠÍKOLO] [2_TURNAJ] [6_V_TURNAJMÍSTO], když {porazil} [4_PORAŽENÝ] [1_SKÓREVÍTĚZ].
+NONE
+
+Beatriz Haddad Maiová si zajistila postup do čtvrtfinále grandslamu v Paříži, když porazila hráče jménem Varvara Gracheva 6:1, 4:6, 6:4.
+
+[1_VÍTĚZ] {smetl} [6_V_SET] [1_SKÓRESETVÍTĚZ].
+jednoznačný
+
+Maiová smetla v 1. setu 6:1.
+
+[6_V_SET] [1_VÍTĚZ] {zvítězil} nad [7_PORAŽENÝ] [1_SKÓRESETVÍTĚZ].
+NONE
+
+V 2. setu Gracheva zvítězila nad Maiovou 6:4.
+
+[6_V_SET] [2_Z_VÍTĚZ] se stala hlavní favoritka [1_SKÓRESETVÍTĚZ].
+NONE
+
+V 3. setu z Maiové se stala hlavní favoritka 6:4.
+
+-------------------------------------------------------------------------------------------
+
+35 F
+Winner: Jessica Pegulaová
+Loser: Nuria Parrizas
+Tournament: Roland Garros
+Round: 3. kolo
+Length: 03:53
+Score: 6:2,7:6,3:6,7:6
+
+[1_VÍTĚZ] {zdolal} [6_V_KOLO] [4_NA_TURNAJNÁZEV] [4_PORAŽENÝ]
+NONE
+
+Pegulaová zdolala ve 3. kole na Roland Garros WTA hráče jménem Parrizas
+
+[6_V_KOLO] [2_TURNAJ] {prohrál} [1_PORAŽENÝ] [7_S_VÍTĚZ] [1_SKÓREPORAŽENÝ].
+NONE
+
+Ve 3. kole turnaje prohrála Nuria Parrizas s hráčem jménem Jessica Pegulaová 2:6, 6:7, 6:3, 6:7.
+
+[1_PORAŽENÝ] [6_V_SET] jasně {prohrál} [1_SKÓRESETPORAŽENÝ].
+jednoznačný
+
+Parrizas v 1. setu jasně prohrála 2:6.
+
+[6_V_SET] [1_PORAŽENÝ] po bitvě {podlehl} [3_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+těsný
+
+V 2. setu Parrizas po bitvě podlehla hráči jménem Pegulaová 6:7.
+
+[6_V_SET] [1_VÍTĚZ] {zvítězil} [1_SKÓRESETVÍTĚZ].
+NONE
+
+V 3. setu Parrizas zvítězila 6:3.
+
+[6_V_SET] [1_VÍTĚZ] {nevzdal} boj [1_SKÓRESETVÍTĚZ].
+těsný
+
+V 4. setu Pegulaová nevzdala boj 7:6.
+
+-------------------------------------------------------------------------------------------
+
+36 M
+Winner: Roberto Bautista-Agut
+Loser: David Goffin
+Tournament: Australian Open
+Round: semifinále
+Length: 02:18
+Score: 6:3,6:7,4:1
+
+[1_PORAŽENÝ] {vzdal} [6_V_TURNAJMÍSTO] zápas [2_KOLO] [7_S_VÍTĚZ]
+nedokončený
+
+Goffin vzdal v Melbournu zápas semifinále s hráčem jménem Bautista-Agut
+
+[1_VÍTĚZ] {postoupil} [6_V_TURNAJMÍSTO] do [2_DALŠÍKOLO] [2_TURNAJ]. [1_PORAŽENÝ] zápas [2_KOLO] za stavu [1_SKÓREPORAŽENÝ] {skrečoval}.
+nedokončený
+
+Roberto Bautista-Agut postoupil v Melbournu do finále grandslamu. Belgický hráč David Goffin zápas semifinále za stavu 3:6, 7:6, 1:4 skrečoval.
+
+[1_VÍTĚZ] {porazil} [6_V_SET] [4_PORAŽENÝ] [1_SKÓRESETVÍTĚZ].
+NONE
+
+Bautista-Agut porazil v 1. setu hráče jménem Goffin 6:3.
+
+[6_V_SET] [1_PORAŽENÝ] {podlehl} po bitvě [3_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+těsný
+
+V 2. setu Bautista-Agut podlehl po bitvě hráči z Belgie 6:7.
+
+[1_PORAŽENÝ] {vzdal} [4_SET] [1_SKÓRESETPORAŽENÝ].
+nedokončený
+
+Belgický tenista vzdal 3. set 1:4.
+
+-------------------------------------------------------------------------------------------
+
+37 F
+Winner: Irina-Camelia Beguová
+Loser: Anastasija Sevastovová
+Tournament: Paris
+Round: 1. kolo
+Length: 01:53
+Score: 4:6,6:3,6:4
+
+[1_VÍTĚZ] {zachránil} [4_KOLO] a {porazil} [4_PORAŽENÝ]
+otočení
+
+Beguová zachránila 1. kolo a porazila hráče jménem Sevastovová
+
+[1_VÍTĚZ] {zvládl} vstup do [2_TURNAJNÁZEV]. [1_VÍTĚZODKAZ] {postoupil} do [2_DALŠÍKOLO] přes [4_PORAŽENÝ], [4_KTERÝ] {porazil} [1_SKÓREVÍTĚZ].
+začátek
+
+Irina-Camelia Beguová zvládla vstup do Paris WTA. Beguová postoupila do 2. kola přes hráče jménem Anastasija Sevastovová, kterou porazila 4:6, 6:3, 6:4.
+
+[6_V_SET] [1_VÍTĚZ] {zdolal} [4_PORAŽENÝ] [1_SKÓRESETVÍTĚZ].
+NONE
+
+V 1. setu Sevastovová zdolala Beguovou 6:4.
+
+[6_V_SET] [1_VÍTĚZ] se {stal} [7_VÍTĚZSLOVO] [1_SKÓRESETVÍTĚZ].
+NONE
+
+V 2. a 3. setu Beguová se stala vítězkou 6:3 a 6:4.
+
+-------------------------------------------------------------------------------------------
+
+38 M
+Winner: Robin Haase
+Loser: Matej Sabanov
+Tournament: Wimbledon
+Round: 4. kolo
+Length: 02:08
+Score: 6:3,4:6,7:6
+
+[1_VÍTĚZ] {postoupil} po [6_DOBOVÝ] bitvě [7_S_TURNAJMÍSTO]
+těsný
+
+Haase postoupil po 2 hodinách a 8 minut dlouhé bitvě s Londýnem
+
+Cesta [2_PORAŽENÝ] [7_TURNAJ] [6_V_TURNAJMÍSTO] skončila [6_V_KOLO]. V boji o postup do [2_DALŠÍKOLO] nestačil [4_NA_VÍTĚZ], [3_KTERÝ] podlehl [1_SKÓREPORAŽENÝ].
+těsný
+
+Cesta tenisty ze Srbska jménem Matej Sabanov grandslamem v Londýnu skončila ve 4. kole. V boji o postup do osmifinále nestačil na nizozemského hráče Robina Haaseho, kterému podlehl 3:6, 6:4, 6:7.
+
+[6_V_SET] [1_PORAŽENÝ] [6_NA_TURNAJPOVRCH] {prohrál} [7_S_VÍTĚZODKAZ] [1_SKÓRESETPORAŽENÝ].
+NONE
+
+V 1. setu Sabanov na trávě prohrál s Haasem 3:6.
+
+[6_V_SET] [1_PORAŽENÝ] [6_NA_TURNAJPOVRCH] {prohrál} [7_S_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+NONE
+
+V 2. setu tenista z Nizozemska na trávě prohrál se srbským tenistou 4:6.
+
+[6_V_SET] [1_VÍTĚZ] po bitvě {zdolal} [4_PORAŽENÝ] [1_SKÓRESETVÍTĚZ].
+těsný
+
+V 3. setu nizozemský tenista po bitvě zdolal srbského tenistu 7:6.
+
+-------------------------------------------------------------------------------------------
+
+39 F
+Winner: Irina-Camelia Beguová
+Loser: Karolína Muchová
+Tournament: US Open
+Round: 2. kolo
+Length: 02:30
+Score: 3:6,6:3,6:2,1:6,6:3
+
+[1_VÍTĚZ] {byl} [4_NA_TURNAJNÁZEV] vyřazení
+NONE
+
+Beguová byla v US Open WTA vyřazení
+
+[1_PORAŽENÝ] {nepřešel} [6_NA_TURNAJ] [6_V_TURNAJMÍSTO] přes [4_KOLO]. [4_PORAŽENÝODKAZ] {porazil} [1_SKÓREVÍTĚZ] [1_VÍTĚZ].
+NONE
+
+Karolína Muchová nepřešla na grandslamu v New Yorku City přes 2. kolo. Muchovou porazila 3:6, 6:3, 6:2, 1:6, 6:3 Irina-Camelia Beguová.
+
+[1_PORAŽENÝ] {podlehl} [3_VÍTĚZ] [6_V_SET] [1_SKÓRESETPORAŽENÝ].
+NONE
+
+Beguová podlehla Muchové v 1. setu 3:6.
+
+[6_V_SET] [1_PORAŽENÝODKAZ] {prohrál} [7_S_PORAŽENÝ] [1_SKÓRESETPORAŽENÝ].
+NONE
+
+V 2. setu Muchová prohrála s Muchovou 3:6.
+
+[1_PORAŽENÝ] [6_V_SET] hladce {prohrál} [7_S_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+jednoznačný
+
+Muchová v 3. setu hladce prohrála s Beguovou 2:6.
+
+[6_V_SET] [1_VÍTĚZ] {udělil} lekci [3_PORAŽENÝ] [1_SKÓRESETVÍTĚZ].
+jednoznačný
+
+V 4. setu Muchová udělila lekci Beguové 6:1.
+
+[1_PORAŽENÝ] {podlehl} [6_V_SET] [3_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+NONE
+
+Muchová podlehla v 5. setu Beguové 3:6.
+
+-------------------------------------------------------------------------------------------
+
+40 M
+Winner: Sebastian Korda
+Loser: Tallon Griekspoor
+Tournament: French Open
+Round: finále
+Length: 01:34
+Score: 6:3,7:6
+
+[1_VÍTĚZ] {získal} [4_TITULVÍTĚZ] [6_NA_TURNAJ] [6_V_TURNAJMÍSTO]
+finále
+
+Korda získal titul na grandslamu v Paříži
+
+[1_VÍTĚZ] {vyhrál} [4_KOLO] [6_NA_TURNAJ] [6_V_TURNAJMÍSTO], když {porazil} [4_PORAŽENÝ] [1_SKÓREVÍTĚZ].
+finále
+
+Americký hráč Sebastian Korda vyhrál finále na grandslamu v Paříži, když porazil tenistu z Nizozemska jménem Tallon Griekspoor 6:3, 7:6.
+
+[1_PORAŽENÝ] [6_V_SET] {nestačil} [4_NA_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+NONE
+
+Griekspoor v 1. setu nestačil na Kordu 3:6.
+
+[6_V_SET] [1_PORAŽENÝ] {podlehl} po bitvě [3_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+těsný
+
+V 2. setu nizozemský tenista podlehl po bitvě americkému tenistovi 6:7.
+
+-------------------------------------------------------------------------------------------
+
+41 F
+Winner: Victoria Azarenková
+Loser: Saj-saj Čeng
+Tournament: Australian Open
+Round: 2. kolo
+Length: 01:22
+Score: 6:3,6:3,6:0
+
+[1_VÍTĚZ] {prošel} hladce do [2_DALŠÍKOLO] [6_V_TURNAJMÍSTO]
+jednoznačný
+
+Azarenková prošla hladce do 3. kola v Melbournu
+
+[1_PORAŽENÝ] {skončil} [6_NA_TURNAJ] [6_V_TURNAJMÍSTO] [6_V_KOLO]. [1_PORAŽENÝODKAZ] {podlehl} [3_VÍTĚZ] hladce [1_SKÓREPORAŽENÝ].
+jednoznačný
+
+Saj-saj Čeng skončila na grandslamu v Melbournu v 2. kole. Čeng podlehla Victorii Azarenkové hladce 3:6, 3:6, 0:6.
+
+[6_V_SET] [1_VÍTĚZ] {porazil} [4_PORAŽENÝ] a má [4_PORAŽENÝODKAZ] [1_SKÓRESETVÍTĚZ].
+NONE
+
+V 1. a 2. setu Azarenková porazila Čenga a má Čenga 6:3 a 6:3.
+
+[6_V_SET] [1_PORAŽENÝ] {ztroskotal} [6_NA_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+jednoznačný
+
+V 3. setu Čeng ztroskotala na Azarenkové 0:6.
+
+-------------------------------------------------------------------------------------------
+
+42 F
+Winner: Rebecca Petersonová
+Loser: Naomi Osakaová
+Tournament: Australian Open
+Round: 4. kolo
+Length: 01:06
+Score: 6:3,6:2
+
+[1_PORAŽENÝ] na vítězství [6_V_TURNAJMÍSTO] {nedosáhl}
+NONE
+
+Osakaová na vítězství v Melbournu nedosáhla
+
+Za [4_DOBA] {vyhrál} [1_VÍTĚZ] [6_V_KOLO] [2_TURNAJ] [2_TURNAJTYP] [6_V_TURNAJMÍSTO] nad [7_PORAŽENÝ] [1_SKÓREVÍTĚZ].
+NONE
+
+Za 1 hodinu a 6 minut vyhrála Rebecca Petersonová ve 4. kole grandslamu okruhu WTA v Melbournu nad hráčem jménem Naomi Osakaová 6:3, 6:2.
+
+[6_V_SET] [1_VÍTĚZ] {porazil} [6_NA_TURNAJPOVRCH] [4_PORAŽENÝ] [1_SKÓRESETVÍTĚZ].
+NONE
+
+V 1. setu Petersonová porazila na tvrdém povrchu hráče jménem Osakaová 6:3.
+
+[1_PORAŽENÝ] {utrpěl} debakl [6_V_SET] [1_SKÓRESETPORAŽENÝ].
+jednoznačný
+
+Osakaová utrpěla debakl v 2. setu 2:6.
+
+-------------------------------------------------------------------------------------------
+
+43 F
+Winner: Julia Putincevová
+Loser: Bianca Andreescuová
+Tournament: Hamburg
+Round: 2. kolo
+Length: 01:39
+Score: 2:6,6:4,6:4
+
+[1_VÍTĚZ] {zachránil} [4_KOLO] a {porazil} [4_PORAŽENÝ]
+otočení
+
+Putincevová zachránila 2. kolo a porazila hráče jménem Andreescuová
+
+[1_PORAŽENÝ] [6_NA_TURNAJNÁZEV] [4_TITULPORAŽENÝ] nezíská. [1_VÍTĚZODKAZ] [6_V_KOLO] [7_S_VÍTĚZ] {promarnil} [4_SETOVÝPOČET] vedení a {prohrál} [1_SKÓREPORAŽENÝ].
+otočení
+
+Bianca Andreescuová v Hamburg WTA titul nezíská. Putincevová v 2. kole s hráčem jménem Julia Putincevová promarnila třísetového vedení a prohrála 6:2, 4:6, 4:6.
+
+[6_V_SET] [1_PORAŽENÝ] {utrpěl} porážku od [2_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+jednoznačný
+
+V 1. setu Putincevová utrpěla porážku od hráče jménem Andreescuová 2:6.
+
+[6_V_SET] [1_VÍTĚZ] {porazil} [1_SKÓRESETVÍTĚZ].
+NONE
+
+V 2. a 3. setu Putincevová porazila 6:4 a 6:4.
+
+-------------------------------------------------------------------------------------------
+
+44 F
+Winner: Kateřina Siniaková
+Loser: Iga Šwiateková
+Tournament: Australian Open
+Round: osmifinále
+Length: 01:07
+Score: 6:3,6:3
+
+[1_PORAŽENÝ] {vypadl} [6_V_TURNAJMÍSTO] [4_DOBA]
+NONE
+
+Šwiateková vypadla v Melbournu 1 hodinu a 7 minut
+
+[1_PORAŽENÝ] {dohrál} [6_NA_TURNAJ] [6_V_TURNAJMÍSTO] [6_V_KOLO]. [1_PORAŽENÝODKAZ] {podlehl} [1_SKÓREPORAŽENÝ] [3_VÍTĚZ].
+NONE
+
+Iga Šwiateková dohrála na grandslamu v Melbournu v osmifinále. Šwiateková podlehla 3:6, 3:6 Kateřině Siniakové.
+
+[6_V_SET] {nestačil} [1_PORAŽENÝ] [4_NA_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+NONE
+
+V obou setech nestačila Šwiateková na Siniakovou 3:6 a 3:6.
+
+-------------------------------------------------------------------------------------------
+
+45 M
+Winner: Lukasz Kubot
+Loser: Dušan Lajovič
+Tournament: Rotterdam
+Round: 4. kolo
+Length: 01:51
+Score: 7:6,7:6
+
+[1_PORAŽENÝ] {vypadl} [4_NA_TURNAJNÁZEV] [6_V_KOLO] [7_S_VÍTĚZ]
+NONE
+
+Lajovič vypadl v Rotterdam ATP ve 4. kole s Kubotem
+
+[1_VÍTĚZ] {porazil} [6_NA_TURNAJNÁZEV] [4_PORAŽENÝ] [1_SKÓREVÍTĚZ] a [6_NA_TURNAJ] {postoupil} do [2_DALŠÍKOLO].
+NONE
+
+Lukasz Kubot porazil v Rotterdam ATP tenistu ze Srbska jménem Dušan Lajovič 7:6, 7:6 a na turnaji postoupil do osmifinále.
+
+[6_V_SET] [1_VÍTĚZ] {udolal} v bitvě [1_SKÓRESETVÍTĚZ].
+těsný
+
+V obou setech Kubot udolal v bitvě 7:6 a 7:6.
+
+-------------------------------------------------------------------------------------------
+
+46 F
+Winner: Darja Kasatkinová
+Loser: Ashleigh Bartyová
+Tournament: Australian Open
+Round: 4. kolo
+Length: 03:27
+Score: 6:4,4:6,6:4,4:6,6:2
+
+[1_PORAŽENÝ] [6_V_TURNAJMÍSTO] {podlehl} po boji [3_VÍTĚZ]
+těsný
+
+Bartyová v Melbournu podlehla po boji hráči jménem Kasatkinová
+
+[1_VÍTĚZ] {vyřadil} [6_V_KOLO] [2_TURNAJ] [6_V_TURNAJMÍSTO] [4_PORAŽENÝ]. [4_PORAŽENÝODKAZ] [1_VÍTĚZODKAZ] {zdolal} po boji [1_SKÓREVÍTĚZ] za [4_DOBA].
+těsný
+
+Darja Kasatkinová vyřadila ve 4. kole grandslamu v Melbournu hráče jménem Ashleigh Bartyová. Bartyovou Kasatkinová zdolala po boji 6:4, 4:6, 6:4, 4:6, 6:2 za 3 hodiny a 27 minut.
+
+{uspěl} [6_V_SET] [1_VÍTĚZ] [1_SKÓRESETVÍTĚZ].
+NONE
+
+Uspěla v 1. setu Kasatkinová 6:4.
+
+[6_V_SET] {vyzrál} [1_VÍTĚZ] [1_SKÓRESETVÍTĚZ].
+NONE
+
+V 2. setu vyzrála Bartyová 6:4.
+
+[6_V_SET] [1_VÍTĚZ] si {poradil} [7_S_PORAŽENÝODKAZ] [1_SKÓRESETVÍTĚZ].
+NONE
+
+V 3. setu Kasatkinová si poradila s Bartyovou 6:4.
+
+[1_VÍTĚZ] {uspěl} [6_V_SET] [1_SKÓRESETVÍTĚZ].
+NONE
+
+Bartyová uspěla v 4. setu 6:4.
+
+[6_V_SET] [1_VÍTĚZ] {vyřídil} [4_PORAŽENÝODKAZ] [1_SKÓRESETVÍTĚZ].
+jednoznačný
+
+V 5. setu Kasatkinová vyřídila Bartyovou 6:2.
+
+-------------------------------------------------------------------------------------------
+
+47 F
+Winner: Nadia Podorosková
+Loser: Arantxa Rusová
+Tournament: Miami
+Round: osmifinále
+Length: 02:14
+Score: 6:3,4:6,6:3
+
+[1_VÍTĚZ] v dvouhře {vyřadil} [4_PORAŽENÝ]
+NONE
+
+Podorosková v dvouhře vyřadila Rusovou
+
+[1_PORAŽENÝ] {vypadl} [6_NA_TURNAJNÁZEV] [6_V_KOLO], [6_V_KTERÝ] {podlehl} [3_VÍTĚZ] [1_SKÓREPORAŽENÝ].
+NONE
+
+Arantxa Rusová vypadla v Miami WTA v osmifinále, ve které podlehla hráči jménem Nadia Podorosková 3:6, 6:4, 3:6.
+
+[6_V_SET] mistryní se {stal} [1_VÍTĚZ] [1_SKÓRESETVÍTĚZ].
+NONE
+
+V 1. setu mistryní se stala Podorosková 6:3.
+
+[6_V_SET] [4_VÍTĚZ] porazila [1_SKÓRESETVÍTĚZ].
+NONE
+
+V 2. setu Rusovou porazila 6:4.
+
+[6_V_SET] [4_PORAŽENÝ] {porazil} [1_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+NONE
+
+V 3. setu Rusovou porazila Podorosková 3:6.
+
+-------------------------------------------------------------------------------------------
+
+48 M
+Winner: Matej Sabanov
+Loser: Rohan Bopanna
+Tournament: Wimbledon
+Round: 3. kolo
+Length: 02:08
+Score: 1:6,7:5,6:3
+
+[1_VÍTĚZ] {otočil} zápas
+otočení
+
+Sabanov otočil zápas
+
+[1_PORAŽENÝ] {nedotáhl} [6_NA_TURNAJ] [6_V_TURNAJMÍSTO] slibně rozehraný zápas [2_KOLO] [7_S_VÍTĚZ]. [1_PORAŽENÝODKAZ] [3_VÍTĚZODKAZ] {podlehl} [1_SKÓREPORAŽENÝ].
+otočení
+
+Rohan Bopanna nedotáhl na grandslamu v Londýnu slibně rozehraný zápas 3. kola se srbským tenistou jménem Matej Sabanov. Bopanna tenistovi ze Srbska podlehl 6:1, 5:7, 3:6.
+
+[6_V_SET] [1_VÍTĚZ] jasně {přehrál} [4_PORAŽENÝ] [1_SKÓRESETVÍTĚZ].
+jednoznačný
+
+V 1. setu Bopanna jasně přehrál hráče jménem Sabanov 6:1.
+
+[1_PORAŽENÝ] {prohrál} po boji [6_V_SET] [7_S_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+těsný
+
+Bopanna prohrál po boji v 2. setu se srbským tenistou 5:7.
+
+[6_V_SET] [1_VÍTĚZ] {zvítězil} [1_SKÓRESETVÍTĚZ].
+NONE
+
+V 3. setu srbský tenista zvítězil 6:3.
+
+-------------------------------------------------------------------------------------------
+
+49 M
+Winner: Karen Khachanov
+Loser: Pablo Cuevas
+Tournament: St Petersburg
+Round: osmifinále
+Length: 01:24
+Score: 6:1,6:4
+
+[1_VÍTĚZ] {postoupil} do [2_DALŠÍKOLO] přes [4_PORAŽENÝ]
+NONE
+
+Khachanov postoupil do čtvrtfinále přes Cuevase
+
+[1_PORAŽENÝ] {prohrál} [6_V_KOLO] [7_S_VÍTĚZ] [1_SKÓREPORAŽENÝ].
+NONE
+
+Uruguayský tenista Pablo Cuevas prohrál v osmifinále s tenistou z Ruska jménem Karen Khachanov 1:6, 4:6.
+
+[6_V_SET] [1_VÍTĚZ] hladce {porazil} [4_PORAŽENÝ] [1_SKÓRESETVÍTĚZ].
+jednoznačný
+
+V 1. setu Khachanov hladce porazil Cuevase 6:1.
+
+[1_PORAŽENÝ] [4_SET] {prohrál} [7_S_VÍTĚZ] [1_SKÓRESETPORAŽENÝ].
+NONE
+
+Uruguayský tenista 2. set prohrál s tenistou z Ruska 4:6.
+
+-------------------------------------------------------------------------------------------
+
+50 M
+Winner: David Pel
+Loser: Harry Taylor Fritz
+Tournament: Australian Open
+Round: osmifinále
+Length: 01:18
+Score: 6:4,6:4
+
+[1_VÍTĚZ] {postoupil} do dvouhry [6_V_TURNAJMÍSTO]
+NONE
+
+Pel postoupil do dvouhry v Melbournu
+
+[1_VÍTĚZ] {zvládl} [6_NA_TURNAJ] [6_V_TURNAJMÍSTO] [4_KOLO] a {postoupil} do čtvrtfinále. [4_NA_VÍTĚZODKAZ] {nestačil} [1_PORAŽENÝ]. [1_PORAŽENÝODKAZ] {prohrál} [1_SKÓREPORAŽENÝ].
+NONE
+
+David Pel zvládl na grandslamu v Melbournu osmifinále a postoupil do čtvrtfinále. Na hráče jménem Pel nestačil Harry Taylor Fritz. Fritz prohrál 4:6, 4:6.
+
+[6_V_SET] [1_VÍTĚZ] [6_NA_TURNAJPOVRCH] [4_PORAŽENÝ] {neporazil} [1_SKÓRESETVÍTĚZ].
+NONE
+
+V obou setech Pel na tvrdém povrchu Fritze neporazil 6:4 a 6:4.
+
+-------------------------------------------------------------------------------------------

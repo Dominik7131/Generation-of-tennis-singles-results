@@ -1,0 +1,1000 @@
+1.
+Djokovič Novak
+Srbsko
+11,540
+14
+2.
+Medveděv Daniil
+Rusko
+8,640
+23
+3.
+Zverev Alexander
+Německo
+7,840
+23
+4.
+Tsitsipas Stefanos
+Řecko
+6,540
+26
+5.
+Rublev Andrey
+Rusko
+5,150
+28
+6.
+Nadal Rafael
+Španělsko
+4,875
+11
+7.
+Berrettini Matteo
+Itálie
+4,568
+21
+8.
+Ruud Casper
+Norsko
+4,160
+35
+9.
+Hurkacz Hubert
+Polsko
+3,706
+32
+10.
+Sinner Jannik
+Itálie
+3,350
+42
+11.
+Auger-Aliassime Felix
+Kanada
+3,308
+28
+12.
+Norrie Cameron
+Velká Británie
+2,945
+31
+13.
+Schwartzman Diego
+Argentina
+2,625
+25
+14.
+Shapovalov Denis
+Kanada
+2,475
+28
+15.
+Thiem Dominic
+Rakousko
+2,425
+15
+16.
+Federer Roger
+Švýcarsko
+2,385
+8
+17.
+Garin Cristian
+Chile
+2,353
+30
+18.
+Karatsev Aslan
+Rusko
+2,351
+39
+19.
+Bautista-Agut Roberto
+Španělsko
+2,260
+27
+20.
+Carreño-Busta Pablo
+Španělsko
+2,230
+25
+21.
+Monfils Gael
+Francie
+2,158
+24
+22.
+Basilashvili Nikoloz
+Gruzie
+2,101
+32
+23.
+Fritz Taylor Harry
+USA
+2,050
+35
+24.
+Isner John
+USA
+1,991
+18
+25.
+Evans Daniel
+Velká Británie
+1,942
+33
+26.
+Opelka Reilly
+USA
+1,936
+28
+27.
+Sonego Lorenzo
+Itálie
+1,825
+36
+28.
+Dimitrov Grigor
+Bulharsko
+1,801
+25
+29.
+Khachanov Karen
+Rusko
+1,731
+29
+30.
+Čilić Marin
+Chorvatsko
+1,710
+26
+31.
+Harris Lloyd George
+Jihoafrická republika
+1,644
+31
+32.
+Alcaraz Carlos
+Španělsko
+1,612
+27
+33.
+Lajovič Dušan
+Srbsko
+1,591
+34
+34.
+De Minaur Alex
+Austrálie
+1,561
+29
+35.
+Humbert Ugo
+Francie
+1,558
+36
+36.
+Bublik Alexander
+Kazachstán
+1,538
+39
+37.
+Fognini Fabio
+Itálie
+1,494
+30
+38.
+Tiafoe Frances
+USA
+1,492
+33
+39.
+Goffin David
+Belgie
+1,476
+25
+40.
+Fucsovics Marton
+Maďarsko
+1,459
+30
+41.
+Korda Sebastian
+USA
+1,426
+39
+42.
+Krajinovič Filip
+Srbsko
+1,402
+28
+43.
+Paul Tommy
+USA
+1,349
+35
+44.
+Delbonis Federico
+Argentina
+1,327
+33
+45.
+Ramos-Viñolas Albert
+Španělsko
+1,294
+40
+46.
+Paire Benoit
+Francie
+1,245
+43
+47.
+Nishikori Kei
+Japonsko
+1,210
+19
+48.
+Ivashka Ilya
+Bělorusko
+1,194
+28
+49.
+Duckworth James
+Austrálie
+1,176
+37
+50.
+Davidovich Fokina Alejandro
+Španělsko
+1,160
+36
+51.
+Struff Jan-Lennard
+Německo
+1,134
+31
+52.
+Djere Laslo
+Srbsko
+1,131
+35
+53.
+Kwon Soonwoo
+Jižní Korea
+1,115
+35
+54.
+Koepfer Dominik
+Německo
+1,101
+40
+55.
+McDonald Mackenzie
+USA
+1,084
+36
+56.
+Brooksby Jenson
+USA
+1,063
+24
+57.
+Van De Zandschulp Botic
+Nizozemsko
+1,034
+36
+58.
+Rinderknech Arthur
+Francie
+1,029
+51
+59.
+Musetti Lorenzo
+Itálie
+1,004
+47
+60.
+Martinez Portero Pedro
+Španělsko
+1,001
+42
+61.
+Popyrin Alexei
+Austrálie
+1,000
+32
+62.
+Mager Gianluca
+Itálie
+978
+40
+63.
+Coria Federico
+Argentina
+976
+47
+64.
+Bonzi Benjamin
+Francie
+969
+46
+65.
+Griekspoor Tallon
+Nizozemsko
+966
+39
+66.
+Giron Marcos
+USA
+929
+33
+67.
+Gaston Hugo
+Francie
+919
+41
+68.
+Nakashima Brandon
+USA
+917
+27
+69.
+Kecmanovic Miomir
+Srbsko
+916
+36
+70.
+Raonic Milos
+Kanada
+884
+14
+71.
+Mannarino Adrian
+Francie
+879
+37
+72.
+Millman John
+Austrálie
+875
+38
+73.
+Ćorić Borna
+Chorvatsko
+874
+16
+74.
+Pella Guido
+Argentina
+866
+27
+75.
+Thompson Jordan
+Austrálie
+860
+33
+76.
+Bagnis Facundo
+Argentina
+860
+37
+77.
+Munar Jaume
+Španělsko
+848
+39
+78.
+Travaglia Stefano
+Itálie
+846
+46
+79.
+Carballes Baena Roberto
+Španělsko
+837
+42
+80.
+Anderson Kevin
+Jihoafrická republika
+829
+21
+81.
+Nishioka Yoshihito
+Japonsko
+823
+30
+82.
+Wawrinka Stan
+Švýcarsko
+822
+14
+83.
+Veselý Jiří
+Česko
+822
+43
+84.
+Altmaier Daniel
+Německo
+813
+51
+85.
+Johnson Steve
+USA
+812
+31
+86.
+Gojowczyk Peter
+Německo
+808
+31
+87.
+Gasquet Richard
+Francie
+807
+29
+88.
+Molčan Alex
+Slovensko
+806
+44
+89.
+Monteiro Thiago
+Brazílie
+805
+39
+90.
+Cerundolo Juan Manuel
+Argentina
+803
+45
+91.
+Andujar-Alba Pablo
+Španělsko
+800
+37
+92.
+Moutet Corentin
+Francie
+797
+27
+93.
+Kyrgios Nick
+Austrálie
+793
+13
+94.
+Ymer Mikael
+Švédsko
+782
+32
+95.
+Ruusuvuori Emil
+Finsko
+778
+43
+96.
+Sandgren Tennys
+USA
+773
+34
+97.
+Cuevas Pablo
+Uruguay
+770
+30
+98.
+Laaksonen Henri
+Švýcarsko
+765
+35
+99.
+Baez Sebastian
+Argentina
+762
+37
+100.
+Cecchinato Marco
+Itálie
+759
+36
+1.
+Pavić Mate
+Chorvatsko
+10,265
+29
+2.
+Mektić Nikola
+Chorvatsko
+9,830
+29
+3.
+Salisbury Joe
+Velká Británie
+9,610
+27
+4.
+Ram Rajeev
+USA
+9,400
+26
+5.
+Mahut Nicolas
+Francie
+7,735
+26
+6.
+Zeballos Horacio
+Argentina
+7,100
+22
+7.
+Granollers-Pujol Marcel
+Španělsko
+7,043
+23
+8.
+Herbert Pierre-Hugues
+Francie
+6,660
+20
+9.
+Polášek Filip
+Slovensko
+6,460
+32
+10.
+Cabal Juan-Sebastian
+Kolumbie
+5,525
+25
+10.
+Farah Robert
+Kolumbie
+5,525
+25
+12.
+Dodig Ivan
+Chorvatsko
+5,165
+31
+13.
+Peers John
+Austrálie
+5,080
+27
+14.
+Krawietz Kevin
+Německo
+4,698
+32
+15.
+Venus Michael
+Nový Zéland
+4,511
+25
+16.
+Soares Bruno
+Brazílie
+4,465
+24
+17.
+Tecau Horia
+Rumunsko
+4,410
+22
+18.
+Puetz Tim
+Německo
+4,218
+28
+19.
+Murray Jamie
+Velká Británie
+4,108
+31
+20.
+Skupski Neal
+Velká Británie
+3,578
+35
+21.
+Koolhof Wesley
+Nizozemsko
+3,485
+29
+22.
+Gonzalez Maximo
+Argentina
+3,260
+30
+23.
+Saville Luke
+Austrálie
+2,966
+49
+24.
+Gille Sander
+Belgie
+2,825
+44
+25.
+Bolelli Simone
+Itálie
+2,795
+34
+26.
+Klaasen Raven
+Jihoafrická republika
+2,792
+35
+27.
+Martin Fabrice
+Francie
+2,785
+47
+28.
+Golubev Andrey
+Kazachstán
+2,770
+45
+29.
+Melo Marcelo
+Brazílie
+2,765
+32
+30.
+Middelkoop Matwe
+Nizozemsko
+2,730
+46
+31.
+Arevalo Marcelo
+Salvador
+2,683
+41
+32.
+Vliegen Joran
+Belgie
+2,665
+40
+33.
+Purcell Max
+Austrálie
+2,660
+36
+34.
+Kubot Lukasz
+Polsko
+2,585
+24
+35.
+Gonzalez Santiago
+Mexiko
+2,536
+43
+36.
+Cacic Nikola
+Srbsko
+2,535
+49
+37.
+McLachlan Ben
+Japonsko
+2,431
+40
+38.
+Rojer Jean-Julien
+Nizozemsko
+2,348
+29
+39.
+Escobar Gonzalo
+Ekvádor
+2,325
+48
+40.
+Krajicek Austin
+USA
+2,295
+35
+41.
+Behar Ariel
+Uruguay
+2,245
+55
+42.
+Roger-Vasselin Edouard
+Francie
+2,200
+21
+43.
+Bopanna Rohan
+Indie
+2,195
+36
+44.
+Nys Hugo
+Monako
+2,190
+45
+45.
+Marach Oliver
+Rakousko
+2,185
+35
+46.
+Molteni Andres
+Argentina
+2,120
+41
+47.
+Brkic Tomislav
+Bosna a Hercegovina
+2,120
+45
+48.
+Bublik Alexander
+Kazachstán
+2,100
+28
+49.
+Mies Andreas
+Německo
+2,094
+30
+50.
+Qureshi Aisam Ul Haq
+Pákistán
+2,079
+42
+51.
+Daniell Marcus
+Nový Zéland
+2,070
+40
+52.
+Oswald Philipp
+Rakousko
+2,055
+39
+53.
+Škugor Franco
+Chorvatsko
+2,010
+25
+54.
+Kontinen Henri
+Finsko
+1,990
+21
+55.
+Johnson Steve
+USA
+1,980
+12
+56.
+Skupski Ken
+Velká Británie
+1,924
+28
+57.
+Ebden Matthew
+Austrálie
+1,906
+26
+58.
+Chardy Jeremy
+Francie
+1,746
+19
+59.
+Evans Daniel
+Velká Británie
+1,741
+21
+60.
+Inglot Dominic
+Velká Británie
+1,720
+34
+61.
+Demoliner Marcelo
+Brazílie
+1,700
+39
+62.
+O'Mara Jonny
+Velká Británie
+1,699
+34
+63.
+Erlich Jonathan
+Izrael
+1,678
+40
+64.
+Heliovaara Harri
+Finsko
+1,656
+48
+65.
+Goransson Andre
+Švédsko
+1,655
+51
+66.
+Paire Benoit
+Francie
+1,613
+30
+67.
+Matos Rafael
+Brazílie
+1,587
+51
+68.
+Smith John Patrick
+Austrálie
+1,578
+38
+69.
+Struff Jan-Lennard
+Německo
+1,550
+16
+70.
+Haase Robin
+Nizozemsko
+1,520
+24
+71.
+Vavassori Andrea
+Itálie
+1,510
+59
+72.
+Nedovyesov Aleksandr
+Kazachstán
+1,471
+43
+73.
+Bambridge Luke
+Velká Británie
+1,454
+32
+74.
+Rublev Andrey
+Rusko
+1,390
+16
+75.
+Bryan Bob
+USA
+1,365
+11
+75.
+Bryan Mike
+USA
+1,365
+11
+77.
+Vasilevski Andrei
+Bělorusko
+1,338
+44
+78.
+Glasspool Lloyd
+Velká Británie
+1,337
+40
+79.
+Querrey Sam
+USA
+1,325
+12
+80.
+Arneodo Romain
+Monako
+1,300
+52
+81.
+Hurkacz Hubert
+Polsko
+1,290
+22
+82.
+Shapovalov Denis
+Kanada
+1,280
+13
+83.
+Meligeni Alves Felipe
+Brazílie
+1,267
+40
+84.
+Melzer Jürgen
+Rakousko
+1,253
+23
+85.
+Reid Matt
+Austrálie
+1,242
+45
+86.
+Lammons Nathaniel
+USA
+1,220
+62
+87.
+Jebavý Roman
+Česko
+1,207
+50
+88.
+Martinez Portero Pedro
+Španělsko
+1,194
+24
+89.
+Vega Hernandez David
+Španělsko
+1,182
+58
+90.
+Withrow Jackson
+USA
+1,173
+50
+91.
+Karatsev Aslan
+Rusko
+1,162
+16
+92.
+Arends Sander
+Nizozemsko
+1,146
+37
+93.
+Molchanov Denys
+Ukrajina
+1,145
+51
+94.
+Luz Orlando
+Brazílie
+1,139
+47
+95.
+Nielsen Frederik
+Dánsko
+1,129
+35
+96.
+Zielinski Jan
+Polsko
+1,118
+34
+97.
+Sabanov Ivan
+Srbsko
+1,117
+51
+97.
+Sabanov Matej
+Srbsko
+1,117
+51
+99.
+Monroe Nicholas
+USA
+1,114
+49
+100.
+Pel David
+Nizozemsko
+1,085
+40

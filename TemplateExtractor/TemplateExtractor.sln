@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemplateExtractor", "TemplateExtractor.csproj", "{9FC6A9BD-DC4B-4828-872F-9482BAC96B5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FC6A9BD-DC4B-4828-872F-9482BAC96B5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FC6A9BD-DC4B-4828-872F-9482BAC96B5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FC6A9BD-DC4B-4828-872F-9482BAC96B5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FC6A9BD-DC4B-4828-872F-9482BAC96B5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9AF3470-FE81-4006-A9F9-32E5F673EE59}
+	EndGlobalSection
+EndGlobal
